@@ -1,2 +1,2 @@
-# Masters Report Document
+# Master's Report Document
 
